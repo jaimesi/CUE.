@@ -9,7 +9,17 @@ export const questions = {
         "What’s the most challenging aspect of maintaining long-term friendships, and how do you navigate it?",
         "What’s a time when a friend showed you unexpected kindness, and how did it impact your life?",
         "What’s something you wish people understood better about your personality?",
-        "What’s a moment in our friendship that made you realize we truly understand each other?"
+        "What’s a moment in our friendship that made you realize we truly understand each other?",
+        "What’s a song that reminds you of a good memory with friends, and why?",
+        "If you could go back and relive a moment with friends, what moment would it be?",
+        "What’s the best advice you’ve ever gotten from a friend?",
+        "What’s a shared goal or dream you’ve had with friends that you’d still like to achieve?",
+        "If you had to describe our friendship in one word, what would it be?",
+        "How do you feel about making new friends as an adult?",
+        "What’s the most important quality you look for in a friend?",
+        "How do you handle disagreements or conflicts with friends?",
+        "How do you think you’ve grown as a friend in the past few years?",
+        "What’s a skill or talent a friend has that you admire?"
     ],
     "Discovering": [
         "If you could confront your past self at a key turning point in your life, what would you say to them?",
@@ -21,7 +31,17 @@ export const questions = {
         "What’s a moment in your life when you felt completely at peace, and what made it so special?",
         "When was the last time you felt truly challenged by your own beliefs or values, and how did you handle it?",
         "What does your ideal future look like, and what steps do you think are necessary to get there?",
-        "What’s one thing that scares you, but also excites you at the same time?"
+        "What’s one thing that scares you, but also excites you at the same time?",
+        "What’s a place you’ve been that made you see the world differently?",
+        "What do you think your younger self would be most proud of about who you are today?",
+        "If you could explore a completely different career or life path, what would it be?",
+        "What’s the best decision you’ve made for yourself this year?",
+        "How do you find inspiration when you’re feeling stuck or unmotivated?",
+        "What do you think is the most exciting part of growing older?",
+        "How do you decide which parts of your past to hold onto and which to let go?",
+        "What’s a book, movie, or song that has deeply influenced how you see the world?",
+        "How do you approach situations where you don’t have all the answers?",
+        "If you could visit your future self, what question would you ask them?"
     ],
     "Dating": [
         "How do you define emotional intimacy, and what does it look like to you in a relationship?",
@@ -33,7 +53,17 @@ export const questions = {
         "How do you know when you’re truly in love with someone versus just infatuated?",
         "If you could have one conversation with your future partner about what kind of life you want together, what would it be?",
         "How do you feel about vulnerability in a relationship, and how do you navigate it?",
-        "What’s a boundary or principle in a relationship that’s non-negotiable for you?"
+        "What’s a boundary or principle in a relationship that’s non-negotiable for you?",
+        "What’s something small that makes you feel special in a relationship?",
+        "How do you usually express love to someone you care about?",
+        "What’s something you wish more people understood about love?",
+        "How do you feel about the idea of soulmates?",
+        "How do you know when a relationship is worth fighting for?",
+        "How do you handle balancing independence and partnership in a relationship?",
+        "What’s your idea of a perfect date, and why?",
+        "What’s the most romantic thing you’ve ever done or experienced?",
+        "How do you navigate cultural or personal differences in relationships?",
+        "What’s one lesson you’ve learned about compromise in relationships?"
     ],
     "Long-Term Partners": [
         "What’s a moment you’ve had with me that made you feel the most secure in our relationship?",
@@ -45,7 +75,17 @@ export const questions = {
         "When things get tough, what helps you feel reassured that we’ll make it through together?",
         "If we were to face a major life change (e.g., moving, career shifts, family changes), how do you think it would impact our relationship?",
         "How do you maintain a sense of individuality in a long-term relationship while still nurturing the partnership?",
-        "What’s a dream or goal you have for us as a couple that you haven’t shared yet?"
+        "What’s a dream or goal you have for us as a couple that you haven’t shared yet?",
+        "How do you think our partnership has changed who we are individually?",
+        "What’s something you’re excited to experience together in the future?",
+        "What’s a habit or quirk of mine that you’ve come to appreciate?",
+        "What’s a small way we could bring more joy into our everyday lives together?",
+        "How do you feel about the idea of creating traditions together?",
+        "What’s a moment when you felt truly seen and understood by me?",
+        "How do you think we’ve helped each other grow as individuals?",
+        "What’s one thing you’d like us to do more often as a couple?",
+        "What’s a memory from the early days of our relationship that still makes you smile?",
+        "What’s a personal challenge you’ve faced that you think has made our relationship stronger?"
     ],
     "Family": [
         "What’s something you wish others in our family understood better about you?",
@@ -57,7 +97,17 @@ export const questions = {
         "What do you think is the most important way we can express appreciation for one another?",
         "What’s one thing you think every family member should know about your values or beliefs?",
         "How do you navigate disagreements with family members while maintaining mutual respect?",
-        "What’s something about your past that you’ve never really talked about, but you think it’s important for us to know?"
+        "What’s something about your past that you’ve never really talked about, but you think it’s important for us to know?",
+        "How do you handle disagreements in the family while staying true to yourself?",
+        "What’s a story about our family that you think future generations should hear?",
+        "How do you feel about the balance between independence and family responsibility?",
+        "What’s a skill or value you learned from our family that you’re grateful for?",
+        "How do you think our family could better support each other in daily life?",
+        "What’s something you’ve learned from observing how our family handles challenges?",
+        "How do you think we can build stronger connections within our family?",
+        "How do you feel about the role of traditions in our family’s identity?",
+        "What’s a family recipe or activity that you think defines us?",
+        "How do you approach building your own identity within the family?"
     ],
     "Professional": [
         "What drives you to work, and how do you stay motivated when the work gets tough or unfulfilling?",
@@ -69,18 +119,38 @@ export const questions = {
         "How do you handle the tension between pursuing your passion and fulfilling your responsibilities?",
         "What’s a professional challenge you overcame that shaped how you approach new obstacles?",
         "How do you define “work-life balance,” and what does it look like for you in your current job?",
-        "If you could leave one legacy in your career, what would you want it to be, and why?"
+        "What’s a goal you’re working toward in your career right now?",
+        "If you could switch to a completely different career tomorrow, what would it be and why?",
+        "What’s a piece of advice you wish someone had given you when you started your career?",
+        "How do you stay inspired when you feel stuck in your work?",
+        "What’s the best piece of feedback you’ve ever received, and how did it change the way you work?",
+        "If you could spend a year learning any skill to help your career, what would it be?",
+        "If you could shadow anyone in the world for a day to learn from them, who would it be?",
+        "What’s a mistake you made at work that taught you something valuable?",
+        "How do you approach building strong relationships with colleagues or clients?",
+        "If money wasn’t a factor, would you still work in your current field? Why or why not?",
+        "How do you deal with workplace politics or conflicts while staying professional?"
     ],
     "Casual": [
         "What’s something you’ve done or experienced that changed the way you see life, even in small ways?",
         "What’s one question about the world or existence that you’ve never been able to stop thinking about?",
-        "If you could spend a year in complete solitude to reflect on your life, what would you focus on, and why?",
+        "If you could live anywhere in the world for a year, where would it be and why?",
         "What’s something you’ve learned from people with completely different perspectives that’s shaped your outlook on life?",
         "If you could share one piece of advice with someone going through a difficult time, what would it be?",
         "What’s something you’ve experienced that’s made you rethink the way you approach your personal relationships?",
         "If you could live one year of your life over again, knowing what you know now, what would you do differently?",
         "What’s a belief you once held strongly but later abandoned, and what caused the shift?",
         "What’s the best piece of advice you’ve ever received, and how did it impact your life choices?",
-        "If you could do something completely out of character for a day, what would you choose, and why?"
+        "If you could do something completely out of character for a day, what would you choose, and why?",
+        "What’s a hobby you’ve always wanted to try but haven’t yet?",
+        "If you could only eat one type of cuisine for the rest of your life, what would it be?",
+        "If you could have dinner with any historical figure, who would it be, and what would you ask them?",
+        "What’s a book or movie that left a lasting impression on you? Why?",
+        "What’s your favorite way to spend a lazy Sunday?",
+        "If you had to describe yourself in three words, what would they be?",
+        "If you could learn to play any instrument, what would it be?",
+        "If you could time travel, would you go to the past or the future? Why?",
+        "If you could swap lives with any fictional character for a day, who would it be?",
+        "What’s something you’ve done recently that you’re proud of, even if it’s small?"
     ]
 };
