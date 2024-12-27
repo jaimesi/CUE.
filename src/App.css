@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 100vh;
+  min-height: 100dvh;
   background-color: #1A121C;
   padding: 0 2rem;
 }
@@ -142,7 +142,7 @@
   }
 
   .page-button button {
-    margin: 0 0 3rem 0;
+    margin: 0 0 1rem 0;
     font-size: 1.5rem;
   }
 
