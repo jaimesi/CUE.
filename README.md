@@ -82,7 +82,7 @@ I created CUE. as a portfolio project to showcase my technical skills while solv
 
 I’d love to hear your thoughts!
 
-- **Found a bug or have a suggestion?** [Submit an Issue](https://github.com/jaimesi/CUE/issues) 
+- **Found a bug or have a suggestion?** [Submit an Issue](https://github.com/jaimesi/CUE./issues) 
 - **Like this project?** Consider starring the repo ⭐!
 
 ---
