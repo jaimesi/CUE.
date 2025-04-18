@@ -24,7 +24,17 @@ export const questions = {
         "If you could relive one day from the past year with friends, what would it be and why?",
         "What’s a friendship deal-breaker for you, and why?",
         "What’s a topic you could talk about for hours without getting bored?",
-        "What’s a lesson you’ve learned from a friendship that ended?"
+        "What’s a lesson you’ve learned from a friendship that ended?",
+        "If you could design the perfect day with friends, what would it include?",
+        "What’s a friendship ritual (e.g., annual trip) you’d love to start?",
+        "How do you show up for friends when they’re struggling, even if you don’t know how to help?",
+        "What’s something you’ve never admitted to your friends but wish you could?",
+        "How do you handle it when a friend outgrows you or vice versa?",
+        "What’s a small gesture from a friend that made a big impact on you?",
+        "How do you balance honesty with kindness in friendships?",
+        "What’s a boundary you’ve set with friends that’s been helpful?",
+        "What’s a way you’ve grown through a friend’s feedback or criticism?",
+        "What’s a friendship challenge you’re currently navigating?"
     ],
     "Discovering": [
         "If you could confront your past self at a key turning point in your life, what would you say to them?",
@@ -48,10 +58,20 @@ export const questions = {
         "How do you approach situations where you don’t have all the answers?",
         "If you could visit your future self, what question would you ask them?",
         "What’s a part of your identity you’re still exploring or understanding?",
-        "How do you define “happiness” for yourself?",
+        "How do you define 'happiness' for yourself?",
         "If you could give your teenage self one piece of advice, what would it be?",
         "What’s a moment when you felt completely out of your comfort zone, and what did you learn?",
-        "What’s a risk you’re glad you took, even if it didn’t work out?"
+        "What’s a risk you’re glad you took, even if it didn’t work out?",
+        "What’s a 'weakness' of yours that you’ve learned to appreciate?",
+        "What’s a part of your personality you’ve tried to suppress but now embrace?",
+        "What’s a misconception people often have about you at first glance?",
+        "How do you handle the feeling of being 'behind' in life?",
+        "What’s a fear you’ve named and confronted recently?",
+        "What’s a part of your identity that’s still evolving?",
+        "What’s something you’ve learned from a stranger?",
+        "What’s something you’ve changed your mind about recently?",
+        "What’s a question you’re afraid to answer honestly?",
+        "If you could erase one memory, would you? Why or why not?"
     ],
     "Dating": [
         "How do you define emotional intimacy, and what does it look like to you in a relationship?",
@@ -78,7 +98,17 @@ export const questions = {
         "How do you know when it’s time to walk away from a relationship?",
         "What’s a romantic gesture that means more to you than grand gestures?",
         "How do you rebuild trust after it’s been broken?",
-        "What’s a relationship dynamic you’ve seen in others that you’d want (or not want) for yourself?"
+        "What’s a relationship dynamic you’ve seen in others that you’d want (or not want) for yourself?",
+        "What’s a relationship red flag you ignored in the past but wouldn’t again?",
+        "How do you navigate dating when you’re attracted to someone but disagree on core values?",
+        "How do you handle the early stages of dating when expectations are unclear?",
+        "What’s a non-romantic quality you look for in a partner?",
+        "How do you balance optimism and realism in dating?",
+        "What’s a dating deal-breaker others might find trivial?",
+        "What’s a lesson you’ve learned about attraction over time?",
+        "What’s a relationship skill you’re actively working on?",
+        "How do you navigate dating when you’re content alone?",
+        "How do you define 'chemistry' beyond physical attraction?"
     ],
     "Long-Term Partners": [
         "What’s a moment you’ve had with me that made you feel the most secure in our relationship?",
@@ -105,7 +135,17 @@ export const questions = {
         "What’s a dream you’d love for us to pursue together?",
         "How do you want to be supported when you’re struggling?",
         "How do you keep the spark alive in long-term love?",
-        "What’s a memory of us that always makes you smile?"
+        "What’s a memory of us that always makes you smile?",
+        "How do you want to be remembered by me if our relationship ended?",
+        "What’s a challenge we haven’t faced yet that you think would test us?",
+        "How do you handle it when one of us is growing faster than the other?",
+        "How do you reconnect when life pulls us in different directions?",
+        "What’s a relationship milestone you’re proud of?",
+        "How do you balance comfort and novelty in our relationship?",
+        "How do you navigate external pressures (family, society) on our relationship?",
+        "What’s a lesson you’ve learned about patience in our relationship?",
+        "How do you keep our relationship a priority when life gets busy?",
+        "How do you handle it when one of us is in a funk?"
     ],
     "Family": [
         "What’s something you wish others in our family understood better about you?",
@@ -132,7 +172,17 @@ export const questions = {
         "What’s a tradition you’d like to start or revive in our family?",
         "How do you balance family expectations with your own dreams?",
         "What’s something you wish we celebrated more as a family?",
-        "What’s a piece of family history you think should be preserved?"
+        "What’s a piece of family history you think should be preserved?",
+        "What’s a family secret that’s shaped your perspective?",
+        "How do you handle family members who don’t respect your boundaries?",
+        "What’s a family heirloom you cherish, and why?",
+        "How do you navigate family gatherings when tensions are high?",
+        "What’s a way you’ve rebelled against family expectations?",
+        "How do you handle generational trauma in your family?",
+        "How do you balance family loyalty with personal truth?",
+        "How do you handle favoritism or comparison in your family?",
+        "What’s a family recipe that holds emotional significance?",
+        "How do you want to parent differently (or similarly) to your family?"
     ],
     "Professional": [
         "What drives you to work, and how do you stay motivated when the work gets tough or unfulfilling?",
@@ -159,7 +209,17 @@ export const questions = {
         "What’s a workplace habit you’ve adopted that’s improved your productivity?",
         "What’s a skill you’ve had to unlearn to succeed in your field?",
         "What’s a leadership quality you admire and strive to embody?",
-        "How do you measure progress in your career beyond titles or salary?"
+        "How do you measure progress in your career beyond titles or salary?",
+        "What’s a workplace culture red flag you’ve learned to spot?",
+        "What’s a professional compliment that stuck with you?",
+        "What’s a skill you’ve learned outside work that helps your career?",
+        "How do you navigate office politics without compromising integrity?",
+        "What’s a professional goal you’ve quietly abandoned?",
+        "How do you stay motivated in a monotonous job?",
+        "What’s a career-related insecurity you’ve overcome?",
+        "What’s a professional relationship that taught you a lot?",
+        "How do you handle being the least experienced person in the room?",
+        "What’s a networking tip you’ve found genuinely helpful?"
     ],
     "Casual": [
         "What’s something you’ve done or experienced that changed the way you see life, even in small ways?",
@@ -186,6 +246,16 @@ export const questions = {
         "What’s a random fact you know that’s surprisingly useful?",
         "What’s a childhood hobby you’d love to revisit as an adult?",
         "What’s a piece of art (music, film, book, etc.) that changed your perspective?",
-        "What’s a small victory you’ve had recently?"
+        "What’s a small victory you’ve had recently?",
+        "What’s a mundane activity you find deeply satisfying?",
+        "If you could instantly become an expert in something obscure, what would it be?",
+        "What’s a word or phrase you overuse?",
+        "What’s a skill you’ve picked up out of sheer boredom?",
+        "What’s a childhood game you’d love to play again?",
+        "What’s a weird talent you have?",
+        "What’s a fictional world you’d love to live in?",
+        "What’s a food combination others find gross but you love?",
+        "What’s a smell that triggers a vivid memory for you?",
+        "What’s a conspiracy theory you find entertaining?"
     ]
 };
